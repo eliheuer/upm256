@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="72"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="48" y="180" type="line"/>
+      <point x="24" y="180" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="48" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <real>0.0</real>
+              <key>color</key>
+              <array>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>0.5196078419685364</real>
+              </array>
+              <key>contrast</key>
+              <real>1.0</real>
+              <key>path</key>
+              <string>/Users/allynsalomon/Desktop/Screen-Shot-2015-02-21-at-11.45.51-AM-(2).jpg</string>
+              <key>saturation</key>
+              <real>1.0</real>
+              <key>sharpness</key>
+              <real>0.4000000059604645</real>
+              <key>transform</key>
+              <array>
+                <real>2.7647792243067553</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>2.7647792243067553</real>
+                <real>-164.72436452530232</real>
+                <real>-9.532052075043202</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>72</integer>
+        </dict>
+        <key>helpers</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>72</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.3202</real>
+        <real>1.0</real>
+        <real>0.3821</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

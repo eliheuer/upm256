@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="188"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="168" y="180" type="line"/>
+      <point x="144" y="180" type="line"/>
+      <point x="144" y="41" type="line"/>
+      <point x="52" y="180" type="line"/>
+      <point x="20" y="180" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="44" y="148" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <real>0.0</real>
+              <key>color</key>
+              <array>
+                <real>1.0</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>0.5716145634651184</real>
+              </array>
+              <key>contrast</key>
+              <real>1.0</real>
+              <key>path</key>
+              <string>/Users/allynsalomon/Desktop/cirk03.jpg</string>
+              <key>saturation</key>
+              <real>1.0</real>
+              <key>sharpness</key>
+              <real>0.4000000059604645</real>
+              <key>transform</key>
+              <array>
+                <real>0.42432233652423107</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>0.42432233652423107</real>
+                <real>-452.5060726008131</real>
+                <real>-19.626518150202855</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>188</integer>
+        </dict>
+        <key>helpers</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>188</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>0.501960813999176</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>184</integer>
+	<key>capHeight</key>
+	<integer>180</integer>
+	<key>copyright</key>
+	<string>(c) 2015 Eli Heuer for LibraCore</string>
+	<key>descender</key>
+	<integer>-48</integer>
+	<key>familyName</key>
+	<string>UPM256</string>
+	<key>openTypeNameLicense</key>
+	<string>Licensed under the Open Font License, version 1.1 or later</string>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-4</integer>
+		<integer>0</integer>
+		<integer>124</integer>
+		<integer>128</integer>
+		<integer>180</integer>
+		<integer>184</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+		<integer>-4</integer>
+		<integer>0</integer>
+		<integer>124</integer>
+		<integer>128</integer>
+		<integer>180</integer>
+		<integer>184</integer>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+		<integer>-52</integer>
+		<integer>-48</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-52</integer>
+		<integer>-48</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>22</integer>
+		<integer>20</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>24</integer>
+		<integer>22</integer>
+	</array>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>none</string>
+	<key>unitsPerEm</key>
+	<integer>256</integer>
+	<key>xHeight</key>
+	<integer>124</integer>
+</dict>
+</plist>

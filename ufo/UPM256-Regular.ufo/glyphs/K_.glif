@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="180"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="48" y="60" type="line"/>
+      <point x="168" y="180" type="line"/>
+      <point x="136" y="180" type="line"/>
+      <point x="48" y="92" type="line"/>
+      <point x="48" y="180" type="line"/>
+      <point x="24" y="180" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="48" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="120" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="108" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <real>0.0</real>
+              <key>color</key>
+              <array>
+                <real>1.0</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>0.4705882668495178</real>
+              </array>
+              <key>contrast</key>
+              <real>1.0</real>
+              <key>path</key>
+              <string>/Users/allynsalomon/Desktop/cirk01.jpg</string>
+              <key>saturation</key>
+              <real>1.0</real>
+              <key>sharpness</key>
+              <real>0.4000000059604645</real>
+              <key>transform</key>
+              <array>
+                <real>0.42432233652423107</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>0.42432233652423107</real>
+                <real>-498.50607260081256</real>
+                <real>-19.62651815020324</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>180</integer>
+        </dict>
+        <key>helpers</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>180</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.3202</real>
+        <real>1.0</real>
+        <real>0.3821</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
