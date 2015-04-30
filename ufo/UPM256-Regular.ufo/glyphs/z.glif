@@ -33,6 +33,35 @@
           </array>
           <key>lib</key>
           <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <real>0.0</real>
+              <key>color</key>
+              <array>
+                <real>1.0</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>0.37063419818878174</real>
+              </array>
+              <key>contrast</key>
+              <real>1.0</real>
+              <key>path</key>
+              <string>/Users/eli/Documents/Artboard 1.png</string>
+              <key>saturation</key>
+              <real>1.0</real>
+              <key>sharpness</key>
+              <real>0.4000000059604645</real>
+              <key>transform</key>
+              <array>
+                <real>1.282431995017234</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>1.282431995017234</real>
+                <real>-996.2686691548411</real>
+                <real>-100.02969561134424</real>
+              </array>
+            </dict>
           </dict>
           <key>name</key>
           <string>z</string>
