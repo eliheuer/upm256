@@ -4,20 +4,22 @@
   <unicode hex="0078"/>
   <outline>
     <contour>
-      <point x="112" y="0" type="line"/>
-      <point x="112" y="20" type="line"/>
-      <point x="24" y="120" type="line"/>
-      <point x="8" y="120" type="line"/>
-      <point x="8" y="100" type="line"/>
-      <point x="96" y="0" type="line"/>
+      <point x="54" y="68" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="69" y="53" type="line"/>
     </contour>
     <contour>
-      <point x="8" y="0" type="line"/>
-      <point x="24" y="0" type="line"/>
-      <point x="112" y="100" type="line"/>
-      <point x="112" y="120" type="line"/>
-      <point x="96" y="120" type="line"/>
-      <point x="8" y="20" type="line"/>
+      <point x="121" y="124" type="line"/>
+      <point x="95" y="124" type="line"/>
+      <point x="57" y="72" type="line"/>
+      <point x="72" y="57" type="line"/>
+    </contour>
+    <contour>
+      <point x="4" y="124" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="30" y="124" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,35 +39,6 @@
           </array>
           <key>lib</key>
           <dict>
-            <key>com.typemytype.robofont.image</key>
-            <dict>
-              <key>brightness</key>
-              <real>0.0</real>
-              <key>color</key>
-              <array>
-                <real>0.0</real>
-                <real>0.0</real>
-                <real>0.0</real>
-                <real>0.4803921580314636</real>
-              </array>
-              <key>contrast</key>
-              <real>1.0</real>
-              <key>path</key>
-              <string>/Users/allynsalomon/Desktop/Screen Shot 2015-02-25 at 9.50.13 PM (2).png</string>
-              <key>saturation</key>
-              <real>1.0</real>
-              <key>sharpness</key>
-              <real>0.4000000059604645</real>
-              <key>transform</key>
-              <array>
-                <real>1.741024206173928</real>
-                <real>0.0</real>
-                <real>0.0</real>
-                <real>1.741024206173928</real>
-                <real>-2596.2257802175345</real>
-                <real>-94.39729958652312</real>
-              </array>
-            </dict>
           </dict>
           <key>name</key>
           <string>x</string>
