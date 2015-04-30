@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="S" format="1">
-  <advance width="154"/>
+  <advance width="660"/>
   <unicode hex="0053"/>
   <outline>
     <contour>
-      <point x="146" y="50" type="curve" smooth="yes"/>
-      <point x="146" y="86"/>
-      <point x="120" y="98"/>
-      <point x="86" y="104" type="curve" smooth="yes"/>
-      <point x="50" y="108"/>
-      <point x="38" y="114"/>
-      <point x="38" y="134" type="curve" smooth="yes"/>
-      <point x="38" y="148"/>
-      <point x="50" y="162"/>
-      <point x="74" y="162" type="curve" smooth="yes"/>
-      <point x="106" y="162"/>
-      <point x="116" y="148"/>
-      <point x="116" y="128" type="curve"/>
-      <point x="140" y="128" type="line"/>
-      <point x="140" y="166"/>
-      <point x="114" y="184"/>
-      <point x="76" y="184" type="curve" smooth="yes"/>
-      <point x="30" y="184"/>
-      <point x="14" y="156"/>
-      <point x="14" y="134" type="curve" smooth="yes"/>
-      <point x="14" y="104"/>
-      <point x="36" y="88"/>
-      <point x="70" y="84" type="curve" smooth="yes"/>
-      <point x="106" y="78"/>
-      <point x="120" y="74"/>
-      <point x="120" y="50" type="curve" smooth="yes"/>
-      <point x="120" y="30"/>
-      <point x="104" y="20"/>
-      <point x="80" y="20" type="curve" smooth="yes"/>
-      <point x="50" y="20"/>
-      <point x="34" y="34"/>
-      <point x="34" y="58" type="curve"/>
-      <point x="8" y="58" type="line"/>
-      <point x="8" y="20"/>
-      <point x="36" y="-4"/>
-      <point x="78" y="-4" type="curve" smooth="yes"/>
-      <point x="126" y="-4"/>
-      <point x="146" y="24"/>
+      <point x="306" y="50" type="curve" smooth="yes"/>
+      <point x="306" y="86"/>
+      <point x="280" y="94"/>
+      <point x="246" y="100" type="curve" smooth="yes"/>
+      <point x="210" y="104"/>
+      <point x="198" y="114"/>
+      <point x="198" y="134" type="curve" smooth="yes"/>
+      <point x="198" y="148"/>
+      <point x="212" y="162"/>
+      <point x="236" y="162" type="curve" smooth="yes"/>
+      <point x="260" y="162"/>
+      <point x="268" y="148"/>
+      <point x="276" y="128" type="curve"/>
+      <point x="300" y="136" type="line"/>
+      <point x="292" y="168"/>
+      <point x="266" y="184"/>
+      <point x="236" y="184" type="curve" smooth="yes"/>
+      <point x="190" y="184"/>
+      <point x="174" y="156"/>
+      <point x="174" y="134" type="curve" smooth="yes"/>
+      <point x="174" y="104"/>
+      <point x="196" y="84"/>
+      <point x="230" y="80" type="curve" smooth="yes"/>
+      <point x="266" y="74"/>
+      <point x="280" y="74"/>
+      <point x="280" y="50" type="curve" smooth="yes"/>
+      <point x="280" y="30"/>
+      <point x="264" y="20"/>
+      <point x="240" y="20" type="curve" smooth="yes"/>
+      <point x="210" y="20"/>
+      <point x="198" y="34"/>
+      <point x="194" y="58" type="curve"/>
+      <point x="170" y="48" type="line"/>
+      <point x="178" y="18"/>
+      <point x="196" y="-4"/>
+      <point x="238" y="-4" type="curve" smooth="yes"/>
+      <point x="286" y="-4"/>
+      <point x="306" y="24"/>
     </contour>
   </outline>
   <lib>
@@ -67,27 +67,27 @@
               <real>0.0</real>
               <key>color</key>
               <array>
+                <real>1.0</real>
                 <real>0.0</real>
                 <real>0.0</real>
-                <real>0.0</real>
-                <real>0.4950597286224365</real>
+                <real>0.38759955763816833</real>
               </array>
               <key>contrast</key>
               <real>1.0</real>
               <key>path</key>
-              <string>/Users/allynsalomon/Desktop/Screen-Shot-2015-02-22-at-11.36.07-AM-(2).jpg</string>
+              <string>/Users/eli/Documents/Artboard 2.png</string>
               <key>saturation</key>
               <real>1.0</real>
               <key>sharpness</key>
               <real>0.4000000059604645</real>
               <key>transform</key>
               <array>
-                <real>2.6723354503834926</real>
+                <real>1.269734648531915</real>
                 <real>0.0</real>
                 <real>0.0</real>
-                <real>2.6723354503834926</real>
-                <real>-3056.9086042457916</real>
-                <real>-63.86563654973526</real>
+                <real>1.269734648531915</real>
+                <real>92.4827368704681</real>
+                <real>-99.44301750604255</real>
               </array>
             </dict>
           </dict>
@@ -97,7 +97,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>154</integer>
+          <integer>660</integer>
         </dict>
         <key>helpers</key>
         <dict>
@@ -119,7 +119,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>154</integer>
+          <integer>660</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
