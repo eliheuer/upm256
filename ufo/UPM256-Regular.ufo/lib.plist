@@ -20,7 +20,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/eli/Dropbox/UPM256A/UPM256A-Regular.otf</string>
+	<string>/Library/Fonts/UPM256A/UPM256/UPM256-Regular.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>

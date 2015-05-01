@@ -56,14 +56,8 @@
 	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
-	<key>ampersand</key>
-	<string>ampersand.glif</string>
-	<key>asterisk</key>
-	<string>asterisk.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
-	<key>backslash</key>
-	<string>backslash.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
 	<key>d</key>
@@ -72,10 +66,6 @@
 	<string>e.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
-	<key>emdash</key>
-	<string>emdash.glif</string>
-	<key>exclam</key>
-	<string>exclam.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>five</key>
@@ -86,8 +76,6 @@
 	<string>g.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
-	<key>hyphen</key>
-	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>j</key>
@@ -108,12 +96,6 @@
 	<string>one.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
-	<key>percent</key>
-	<string>percent.glif</string>
-	<key>period</key>
-	<string>period.glif</string>
-	<key>plus</key>
-	<string>plus.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
 	<key>r</key>
@@ -124,8 +106,6 @@
 	<string>seven.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
-	<key>slash</key>
-	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>t</key>
@@ -146,5 +126,7 @@
 	<string>y.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
+	<key>zero</key>
+	<string>zero.glif</string>
 </dict>
 </plist>

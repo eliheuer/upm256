@@ -32,7 +32,7 @@
       <point x="76" y="-4"/>
       <point x="86" y="4"/>
       <point x="94" y="16" type="curve"/>
-      <point x="102" y="0" type="line"/>
+      <point x="94" y="0" type="line"/>
       <point x="116" y="0" type="line"/>
       <point x="116" y="180" type="line"/>
       <point x="94" y="180" type="line"/>
