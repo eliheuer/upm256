@@ -7,11 +7,15 @@
 	<key>capHeight</key>
 	<integer>180</integer>
 	<key>copyright</key>
-	<string>(c) 2015 Eli Heuer for LibraCore</string>
+	<string>(c) 2015 Eli Heuer </string>
 	<key>descender</key>
 	<integer>-48</integer>
 	<key>familyName</key>
 	<string>UPM256</string>
+	<key>openTypeNameDesigner</key>
+	<string>Eli Heuer</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>eliheuer.info</string>
 	<key>openTypeNameLicense</key>
 	<string>Licensed under the Open Font License, version 1.1 or later</string>
 	<key>postscriptBlueValues</key>
