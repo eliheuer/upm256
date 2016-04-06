@@ -32,6 +32,11 @@
 		<key>Q</key>
 		<integer>-8</integer>
 	</dict>
+	<key>K</key>
+	<dict>
+		<key>o</key>
+		<integer>-12</integer>
+	</dict>
 	<key>P</key>
 	<dict>
 		<key>M</key>
@@ -41,6 +46,16 @@
 	<dict>
 		<key>A</key>
 		<integer>-32</integer>
+	</dict>
+	<key>o</key>
+	<dict>
+		<key>w</key>
+		<integer>-10</integer>
+	</dict>
+	<key>w</key>
+	<dict>
+		<key>o</key>
+		<integer>-10</integer>
 	</dict>
 </dict>
 </plist>

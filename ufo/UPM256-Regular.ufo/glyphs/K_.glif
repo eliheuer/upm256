@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="180"/>
+  <advance width="170"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="48" y="60" type="line"/>
-      <point x="168" y="180" type="line"/>
-      <point x="136" y="180" type="line"/>
-      <point x="48" y="92" type="line"/>
-      <point x="48" y="180" type="line"/>
-      <point x="24" y="180" type="line"/>
-      <point x="24" y="0" type="line"/>
-      <point x="48" y="0" type="line"/>
+      <point x="44" y="60" type="line"/>
+      <point x="164" y="180" type="line"/>
+      <point x="132" y="180" type="line"/>
+      <point x="44" y="92" type="line"/>
+      <point x="44" y="180" type="line"/>
+      <point x="20" y="180" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="44" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="120" type="line"/>
-      <point x="140" y="0" type="line"/>
-      <point x="168" y="0" type="line"/>
-      <point x="108" y="120" type="line"/>
+      <point x="76" y="120" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="104" y="120" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -73,7 +73,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>180</integer>
+          <integer>170</integer>
         </dict>
         <key>helpers</key>
         <dict>
@@ -95,7 +95,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>180</integer>
+          <integer>170</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
